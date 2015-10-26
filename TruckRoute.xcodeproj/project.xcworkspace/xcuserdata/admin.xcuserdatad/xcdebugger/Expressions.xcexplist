@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TTNewRouteViewController updateEndAddress]:TTNewRouteViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController updatePOIs]:TTMapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTFindAddressViewController updateAddress]:TTFindAddressViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTRouteAnalyser analyseWithLocation:]:TTRouteAnalyser.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTPOIManager receiveRecord:]:TTPOIManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "errMsg">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController prepareInstructionAnnotations:]:TTMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cur_annotationview.annotation">
+            </PersistentString>
+            <PersistentString
+               value = "cur_annotationview.canShowCallout">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController viewForDestination]:TTMapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTSubscriptionViewController productsRequest:didReceiveResponse:]:TTSubscriptionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "product.productIdentifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController loadKML]:TTMapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTPOIManager importCSVFile:]:TTPOIManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTRoute dealloc]:TTRoute.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTNewRouteViewController createRoute:]:TTNewRouteViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "route_request.end_address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController viewDidLoad]:TTMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "info malloc-history 0x22a7ece0">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTRoute processLocation:toNavInfo:]:TTRoute.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "&amp;tmpCoord">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTRoute processInstructions]:TTRoute.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tmpCoord[220]">
+            </PersistentString>
+            <PersistentString
+               value = "route_points.pointCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTSubscriptionViewController startPurchase]:TTSubscriptionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTRoute initWithRouteRequest:shapes:instructions:]:TTRoute.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "shapes_array">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTNewRouteViewController saveRouteRequest]:TTNewRouteViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTSubscriptionViewController paymentQueue:updatedTransactions:]:TTSubscriptionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "transaction.payment.productIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "transaction.transactionDate">
+            </PersistentString>
+            <PersistentString
+               value = "transaction.transactionIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "transaction.transactionState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTUtilities headingFromCoordinate:toCoordinate:]:TTUtilities.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTFindAddressViewController displayPlacemarks:]:TTFindAddressViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "place.name">
+            </PersistentString>
+            <PersistentString
+               value = "place.location.coordinate">
+            </PersistentString>
+            <PersistentString
+               value = "(CLPlace *)place">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController updateZoom]:TTMapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTSubscriptionViewController connectionDidFinishLoading:]:TTSubscriptionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response_data_new_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTSubscriptionViewController viewDidLoad]:TTSubscriptionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTNewRouteViewController submitRequest]:TTNewRouteViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTSubscriptionViewController completeTransaction:]:TTSubscriptionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "transaction.transactionIdentifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController doNavigating]:TTMapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController updateOdometer]:TTMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cur_location.speed">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController observeValueForKeyPath:ofObject:change:context:]:TTMapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController calculateZoom]:TTMapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTSubscriptionViewController feedTableViewWithDataOffset:]:TTSubscriptionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTRouteDetailsViewController tableView:cellForRowAtIndexPath:]:TTRouteDetailsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTPOIManager dealloc]:TTPOIManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTUserInfoViewController ok:]:TTUserInfoViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CSVParser dealloc]:CSVParser.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTUserInfoViewController viewDidLoad]:TTUserInfoViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TTRoute processShapes]:TTRoute.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "nShapeGroupSize">
+            </PersistentString>
+            <PersistentString
+               value = "route_shape_group">
+            </PersistentString>
+            <PersistentString
+               value = "headings[222]">
+            </PersistentString>
+            <PersistentString
+               value = "route_shape_group[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController viewForPOI:]:TTMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTRouteAnalyser prepareSimulationLocations]:TTRouteAnalyser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "distTravelledOnCurSeg">
+            </PersistentString>
+            <PersistentString
+               value = "seg_lengths[100]">
+            </PersistentString>
+            <PersistentString
+               value = "seg_lengths[idxPoint]">
+            </PersistentString>
+            <PersistentString
+               value = "seg_lengths[99]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTRouteAnalyzer initWithRouteRequest:shapes:instructions:]:TTRouteAnalyzer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cood">
+            </PersistentString>
+            <PersistentString
+               value = "points[index]">
+            </PersistentString>
+            <PersistentString
+               value = "points[0]">
+            </PersistentString>
+            <PersistentString
+               value = "points[1]&#9;MKMapPoint&#9;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTUtilities getStateWithCoord:]:TTUtilities.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "key1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTSubscriptionViewController restoreTransaction:]:TTSubscriptionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "transaction.originalTransaction.transactionIdentifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TTMapViewController updateView]:TTMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "navCursorView">
+            </PersistentString>
+            <PersistentString
+               value = "subView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CSVParser initWithString:separator:hasHeader:fieldNames:]:CSVParser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "endTextCharacterSet">
+            </PersistentString>
+            <PersistentString
+               value = "endTextMutableCharacterSet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
